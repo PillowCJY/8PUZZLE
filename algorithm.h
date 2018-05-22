@@ -1,6 +1,4 @@
-/*	159302 - Assignment 1 
-	Junyi Chen - 16192554
-	Jack Chen - 16095664  
+/*	
 */
 #ifndef __ALGORITHM_H__
 #define __ALGORITHM_H__
